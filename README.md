@@ -1,4 +1,8 @@
 # Advanced-Real-Time-Speech-Recognition-App-with-Streamlit-and-Vosk
+
+Simple Video :
+https://www.linkedin.com/posts/alaa-sayed-52662512a_speechrecognition-streamlit-vosk-activity-7229086637522092032-F8Gp?utm_source=share&utm_medium=member_desktop
+
 🚀 Journey to Building an Advanced Real-Time Speech Recognition App with Streamlit and Vosk 🎤💻
 
 In the ever-evolving world of technology, where voice interfaces are becoming more prominent, we embarked on a fascinating project to develop a real-time speech recognition app using Streamlit and Vosk. The journey was nothing short of challenging, but the final product was well worth the effort! Here’s how we brought this project to life, the hurdles we faced, and how we overcame them.
